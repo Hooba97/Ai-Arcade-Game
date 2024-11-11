@@ -1,7 +1,7 @@
 # Ai-Arcade Game
-A 2D Pc game created using AI 
+A 2D PC game created using AI 
 
-Welcome to the 2D Arcade Game! This is a classic arcade-style game featuring a player who must collect coins to level up, avoid walls, and manage a timer. The game increases in difficulty as you progress through levels, adding more obstacles. It also includes sound effects when coins are collected.
+Welcome to the 2D Arcade Game! This classic arcade-style game features a player who must collect coins to level up, avoid walls, and manage a timer. The game increases in difficulty as you progress through levels, adding more obstacles. It also includes sound effects when coins are collected.
 
 ## Table of Contents
 - [Features](#features)
@@ -14,19 +14,19 @@ Welcome to the 2D Arcade Game! This is a classic arcade-style game featuring a p
 - Coin Collection: Collect coins to increase your score and level up.
 - Walls & Obstacles: Avoid randomly generated walls that block your movement.
 - Timer: Manage the time remaining while collecting coins.
-- Level Progression: Each level requires more coins to level up, and the number of obstacles increases.
+- Level Progression: Each level requires more coins to level up, increasing the number of obstacles.
 - Game Over: Once the timer runs out, the game will display your score, and you can choose to return to the main menu.
 - Sound Effects: A sound plays when you collect a coin.
 - Responsive Controls: The player moves in response to key presses, with adjustments for smoother gameplay.
 
 ## Installation
-This game is written in Python, so make please make sure you have Python installed on your computer. 
+This game is written in Python, so please ensure you have Python installed on your computer. 
 
 ### Step 1: Install Python
 - Go to the official Python website: https://www.python.org/downloads/
 
 ### Step 2: Install dependencies:
-The game uses the `pygame` dependencie, You can install the necessary dependencies using pip:
+The game uses the `pygame` dependency, You can install the necessary dependencies using pip:
 
 ```bash
    pip install pygame
