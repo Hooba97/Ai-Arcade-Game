@@ -8,6 +8,9 @@ Welcome to the 2D Arcade Game! This classic arcade-style game features a player 
 - [Installation](#Installation)
 - [Game Controls](#Game-Controls)
 - [How to Play](#How-to-Play)
+## Demo 
+Watch the demo of the game in action:
+<img src="demo.gif" />
 
 ## Features
 - Player Movement: Use the arrow keys to move the player character around the screen.
