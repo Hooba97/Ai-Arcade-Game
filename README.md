@@ -9,7 +9,6 @@ Welcome to the 2D Arcade Game! This classic arcade-style game features a player 
 - [Game Controls](#Game-Controls)
 - [How to Play](#How-to-Play)
 ## Demo 
-Watch the demo of the game in action:
 <img src="demo.gif" />
 
 ## Features
